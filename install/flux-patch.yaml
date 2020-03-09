@@ -16,4 +16,5 @@ spec:
             - --ssh-keygen-dir=/var/fluxd/keygen
             - --git-branch=master
             - --git-path=cluster
-            - --git-url=git@github.com:org/dev-cluster
+            - --git-url=git@github.com:shapirov103/eks-dev-cluster.git
+
