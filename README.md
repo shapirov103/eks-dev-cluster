@@ -1,5 +1,6 @@
 # fluxcd-multi-tenancy
 
+write check
 [![test](https://github.com/fluxcd/multi-tenancy/workflows/test/badge.svg)](https://github.com/fluxcd/multi-tenancy/blob/master/.github/workflows/test.yml)
 
 This repository serves as a starting point for a multi-tenant cluster managed with Git, Flux and Kustomize.
