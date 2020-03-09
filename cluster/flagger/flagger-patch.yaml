@@ -10,8 +10,6 @@ spec:
           args:
             - -mesh-provider=kubernetes
             - -metrics-server=http://flagger-prometheus:9090
-            - -slack-user=shapirov
-            - -slack-channel=eks-cd
-            - -slack-url=https://hooks.slack.com/services/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
-~
-~
+            - -slack-user=flagger
+            - -slack-channel=
+            - -slack-url=
